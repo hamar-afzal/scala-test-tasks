@@ -1,7 +1,7 @@
 How To Run
 ------------------
 1. Clone the project and goto project root directory
-2. Open run.sh in an editor and make changes in the configuration section as per your section:
+2. Open run.sh in an editor and make changes in the configuration section as per your environment:
    These 3 settings are required to run spark task:
    - spark_master
    - hdfs_root
